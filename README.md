@@ -1,2 +1,7 @@
-# IASC-1P04
-GitHub repository for IASC 1P04 course at Brock University
+# IASC-1P04 | Aasim Noorani
+
+Welcome to the website for my game, created for the course of IASC 1P04 at Brock University
+
+## Playtest
+
+Playtest my game [here]()
