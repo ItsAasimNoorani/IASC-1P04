@@ -5,7 +5,7 @@ Black Hole Station is a short adventure game where players explore an abandoned 
 
 ## PLay now
 
-Play Black Hole Station .[here].()
+Play Black Hole Station .[here].(https://itsaasimnoorani.github.io/IASC-1P04/Final_build/BlackHoleStation_FinalBuild.html)
 
 Welcome to the website for my twine game, created for the course of IASC 1P04 at Brock University
 
